@@ -53,6 +53,10 @@ Instala en tu equipo:
 
 ## Anexo
 
+### Acción adicional
+Adjunto una imagen de los comandos usados para subir este README.md
+<img src="./screenshots/adicional.png" width="500" alt="Captura actualización README.md">
+
 ### ¿Como probar en la nube?
 
 [Github-Codespaces](https://github.com/features/codespaces)
