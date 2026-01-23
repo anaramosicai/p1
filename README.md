@@ -55,10 +55,12 @@ Instala en tu equipo:
 
 ### Corrección git push
 Como inicialmente había hecho un `git add .` antes de borrar el archivo `.git` de p1, no se permitía desde la nube acceder a esta carpeta, por lo que tuve que hacer lo siguiente:
+
 <img src="./screenshots/subocambios2.png" width="500" alt="Captura corrección git push">
 
 ### Acción adicional
 Adjunto una imagen de los comandos usados para subir este README.md
+
 <img src="./screenshots/adicional.png" width="500" alt="Captura actualización README.md">
 
 ### ¿Como probar en la nube?
